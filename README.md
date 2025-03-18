@@ -7,7 +7,6 @@ Welcome to my GitHub profile!
 
 🎓 I'm a 19-year-old developer with a solid background in JavaScript, gained through the Alpha JS program at Telerik Academy. Always eager to learn and improve, I enjoy exploring new technologies and finding creative ways to solve complex problems!
 
-🌱 Currently learning Typescript to expand my skill set and build dynamic, modern web applications.
 
 
 ## 🛠️ Technical Proficiency
